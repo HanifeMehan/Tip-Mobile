@@ -1,5 +1,6 @@
 # TipMobile
-
+yarn install
+yarn start expo
 <br>
 <div>
 <img src="Image/img1.jpg" width="300px" height="500px" />
