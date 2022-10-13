@@ -1,5 +1,6 @@
 # TipMobile
 yarn install
+<br>
 yarn start expo
 <br>
 <div>
