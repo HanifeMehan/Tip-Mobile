@@ -1,13 +1,8 @@
 # TipMobile
 
 <br>
-18
-<img src="Image/img1.png" />
-19
+<img src="Image/img1.jpg" />
 <br>
-20
-<img src="Image/img2.png" />
-21
+<img src="Image/img2.jpg" />
 <br>
-22
-<img src="Image/img3.png" />
+<img src="Image/img3.jpg" />
